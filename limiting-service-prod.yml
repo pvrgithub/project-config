@@ -1,0 +1,3 @@
+limiting-service:
+  maximum: 100
+  minimum: 100

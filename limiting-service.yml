@@ -1,0 +1,3 @@
+limiting-service:
+  maximum: 555
+  minimum: 55
